@@ -1,1 +1,0 @@
-# Proposta de Stack Tecnológica

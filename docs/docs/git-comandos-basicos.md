@@ -1,1 +1,0 @@
-# Comandos Básicos do Git
