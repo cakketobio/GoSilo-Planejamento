@@ -18,9 +18,9 @@ O **GoSilo** conecta essas duas realidades: quem tem espaço anuncia, quem preci
 | Nome | Papel (Scrum) | GitHub |
 |------|---------------|--------|
 | Anna Luisa | Scrum Master & Tech Lead | [@annaluisa](https://github.com/cakketobio) |
-| Ana Vitória | Product Owner | [@anavitoria](https://github.com/anavitoria) |
+| Ana Vitória | Product Owner | [@anavitoria](https://github.com/yik3x) |
 | Breno | Tech Lead & Pesquisador | [@breno](https://github.com/bd2s17) |
-| Brian | UI Designer | [@brian](https://github.com/brian) |
+| Brian | UI Designer | [@brian](https://github.com/ferrarinetto13-glitch) |
 
 ---
 ## Papéis
