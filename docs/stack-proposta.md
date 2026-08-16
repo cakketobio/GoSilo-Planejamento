@@ -65,3 +65,7 @@ O GoSilo possui requisitos fortes de busca por raio geográfico (ex: silos a at�
 |--------|----------------------------|
 |É um banco de dados local (armazenado apenas dentro do aplicativo do celular). Não serve para ser o banco central do leilão onde todos os usuários se conectam. | Embora seja fácil de configurar, realizar consultas complexas combinando raio de distância + tipo de grão + faixa de preço é extremamente difícil e ineficiente em bancos NoSQL orientados a documentos.|
 
+---
+# Documento original
+Ver documento [`GoSilo-Planejamento/docs/seu-arquivo.docx`](linkdouploadodoword).
+
