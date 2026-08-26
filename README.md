@@ -57,6 +57,8 @@ O **GoSilo** conecta essas duas realidades: quem tem espaço anuncia, quem preci
   - `casos-de-uso-v2.png` – Diagrama de Casos de Uso (Versão 2)
   - `diagrama-classes.png` – Diagrama de Classes UML
   - `diagrama-fluxo-sistema.png` – Fluxo de dados e arquitetura
+- - **prototipação/** – Protótipos
+  - `protótipos` - Protótipos Desenvolvidos
  
     
 ---
