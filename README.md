@@ -8,7 +8,7 @@ Repositório de Documentação, pesquisa de usuários, protótipos e planejament
 
 ---
 ## O Problema:
-> A silagem é um alimento perecível produzido a partir da fermentação de plantas como milho, sorgo e capim, e estraga rapidamente se não for armazenada em condições adequadas logo após a colheita. Muitos produtores rurais enfrentam safras acima do esperado e ficam sem espaço em seus silos, correndo o risco de perder toda a produção. Ao mesmo tempo, outros produtores possuem silos com capacidade ociosa que poderiam ser alugados.
+> Sementes secas (grãos) colhidas de plantas cultivadas, como soja, milho, arroz e trigo, têm a característica de perder a qualidade e sofrer ataques de fungos ou insetos se forem guardados com umidade elevada ou sem controle de temperatura logo após a colheita. Muitos produtores enfrentam supersafras ou gargalos logísticos e ficam sem espaço para guardar toda a produção a granel, correndo o risco de sofrer perdas financeiras severas por deterioração; ao mesmo tempo, outros produtores ou cooperativas investiram em estruturas robustas de silos que ficam parcialmente ociosas em determinadas épocas do ano, gerando uma oportunidade para o aluguel de espaço e comercialização programada
 
 O **GoSilo** conecta essas duas realidades: quem tem espaço anuncia, quem precisa armazena. Tudo por meio de um sistema de leilão de espaços em silos, visualizados em um mapa interativo.
 
