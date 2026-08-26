@@ -87,9 +87,34 @@ Utilizamos uma adaptação do **Scrum** com sprints de 1 a 2 semanas.
 
 ## Tecnologias (provisórias)
 
-A definir na Sprint 0. Ver documento [`docs/stack-proposta.md`](docs/stack-proposta.md).
+A stack tecnológica do GoSilo foi definida na Sprint 0, considerando as necessidades do aplicativo, especialmente geolocalização, comunicação em tempo real, gerenciamento de dados e funcionamento do sistema de leilão. Ver documento [`docs/stack-proposta.md`](docs/stack-proposta.md).
 
-Sugestão inicial: React Native + Firebase (avaliar viabilidade).
+### Front-end
+
+* **React Native + Expo** — desenvolvimento do aplicativo mobile multiplataforma.
+
+### Back-end
+
+* **Python + FastAPI** — desenvolvimento da API e das regras de negócio do sistema.
+* **WebSockets** — comunicação em tempo real, utilizada principalmente para o sistema de leilão e atualizações entre usuários.
+
+### Banco de dados e geolocalização
+
+* **PostgreSQL** — gerenciamento e persistência dos dados da aplicação.
+* **PostGIS** — extensão do PostgreSQL utilizada para operações de geolocalização e consultas espaciais.
+
+### Segurança
+
+* **Argon2id ou BCrypt** — armazenamento seguro de senhas por meio de funções de hash.
+* **AES-256** — criptografia de dados sensíveis armazenados no sistema.
+
+### Design e prototipação
+
+* **Lovable** — criação dos protótipos e interfaces do aplicativo.
+* **Figma** — criação dos protótipos e interfaces do aplicativo.
+
+A implementação dessas tecnologias será realizada na **Fase 02 — Desenvolvimento**, enquanto este repositório concentra o planejamento, a pesquisa, a prototipação e a modelagem do sistema.
+
 
 ---
 
