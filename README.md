@@ -69,9 +69,9 @@ Utilizamos uma adaptação do **Scrum** com sprints de 1 a 2 semanas.
 
 | Sprint | Duração | Objetivo | Status |
 |--------|---------|----------|--------|
-| Sprint 0 | 1 semana | Setup, repositórios, kickoff e definição de stack | Pendente |
-| Sprint 1 | 1,5 semanas | Pesquisa com produtores rurais e wireframes iniciais | Pendente |
-| Sprint 2 | 2 semanas | Protótipos de média fidelidade, fluxos e modelagem | Pendente |
+| Sprint 0 | 1 semana | Setup, repositórios, kickoff e definição de stack | Concluído |
+| Sprint 1 | 1,5 semanas | Pesquisa com produtores rurais e wireframes iniciais | Concluído |
+| Sprint 2 | 2 semanas | Protótipos de média fidelidade, fluxos e modelagem | Concluído |
 | Sprint 3 | 1 semana | Ajustes finais, validação com usuários e documentação | Pendente |
 
 ### Reuniões
@@ -108,9 +108,9 @@ Região inicial: Estado de Goiás.
 
 - [x] Ideia do projeto definida
 - [x] Problema documentado
-- [ ] Repositório configurado
+- [x] Repositório configurado
 - [ ] Pesquisa com usuários realizada
-- [ ] Protótipos criados
+- [x] Protótipos criados
 - [ ] Modelagem concluída
 
 ---
@@ -119,8 +119,8 @@ Região inicial: Estado de Goiás.
 
 - **Repositório de código (Fase 02):** [em breve]
 - **Board Kanban:** [Board Kanban do GoSilo](https://trello.com/invite/b/gdIdj7zz/ATTI027b16c041f19ee0085082933894d026F77FA151/projeto-integrador)
-- **Protótipo no Figma:** [em breve]
+- **Protótipo no Lovable:** [em breve]
 
 ---
 
-> **"Conectar silos vazios a silagens que não podem esperar."**
+> **"Menos burocracia, mais receita."**
