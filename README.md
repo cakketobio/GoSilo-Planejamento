@@ -58,7 +58,10 @@ O **GoSilo** conecta essas duas realidades: quem tem espaço anuncia, quem preci
   - `diagrama-classes.png` – Diagrama de Classes UML
   - `diagrama-fluxo-sistema.png` – Fluxo de dados e arquitetura
 - - **prototipação/** – Protótipos
-  - `protótipos` - Protótipos Desenvolvidos
+  - `fluxo-de-navegação` -  representação visual do caminho que o usuário percorre dentro do sistema 
+  - `prototipo-baixa-fidelidade` - wireframes estruturais básicos (esboços). sem cores, sem imagens reais e com textos fictícios (Lorem Ipsum).
+  - `prototipo-media-fidelidade` - apresentam o layout mais definido, espaçamentos corretos e alguma interatividade básica (cliques que mudam de tela).
+  - `prototipo-alta-fidelidade` - parecem exatamente com o aplicativo ou site final. Incluem identidade visual completa (cores, fontes, imagens, ícones) e transições avançadas.
  
     
 ---
@@ -136,7 +139,7 @@ Região inicial: Estado de Goiás.
 - [x] Ideia do projeto definida
 - [x] Problema documentado
 - [x] Repositório configurado
-- [ ] Pesquisa com usuários realizada
+- [x] Pesquisa com usuários realizada
 - [x] Protótipos criados
 - [ ] Modelagem concluída
 
