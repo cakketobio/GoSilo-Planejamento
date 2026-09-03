@@ -49,7 +49,6 @@ O **GoSilo** conecta essas duas realidades: quem tem espaço anuncia, quem preci
   - `resultados-pesquisa-usuarios.md` – Relatório final da pesquisa
 - **ux/** – UX/UI Design
   - **wireframes-iniciais/** – Primeiros esboços das telas
-  - `fluxo-navegacao.png` – Mapa de navegação do app
   - `glossario-visual.md` – Definições de termos de design
   - `guia-estilo.md` – Paleta de cores, tipografia, etc.
 - **modelagem/** – Diagramas do sistema
