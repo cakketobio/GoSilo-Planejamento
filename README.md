@@ -56,11 +56,6 @@ O **GoSilo** conecta essas duas realidades: quem tem espaço anuncia, quem preci
   - `casos-de-uso-v2.png` – Diagrama de Casos de Uso (Versão 2)
   - `diagrama-classes.png` – Diagrama de Classes UML
   - `diagrama-fluxo-sistema.png` – Fluxo de dados e arquitetura
-- - **prototipação/** – Protótipos
-  - `fluxo-de-navegação` -  representação visual do caminho que o usuário percorre dentro do sistema 
-  - `prototipo-baixa-fidelidade` - wireframes estruturais básicos (esboços). sem cores, sem imagens reais e com textos fictícios (Lorem Ipsum).
-  - `prototipo-media-fidelidade` - apresentam o layout mais definido, espaçamentos corretos e alguma interatividade básica (cliques que mudam de tela).
-  - `prototipo-alta-fidelidade` - parecem exatamente com o aplicativo ou site final. Incluem identidade visual completa (cores, fontes, imagens, ícones) e transições avançadas.
  
     
 ---
@@ -74,9 +69,9 @@ Utilizamos uma adaptação do **Scrum** com sprints de 1 a 2 semanas.
 | Sprint | Duração | Objetivo | Status |
 |--------|---------|----------|--------|
 | Sprint 0 | 1 semana | Setup, repositórios, kickoff e definição de stack | Concluído |
-| Sprint 1 | 1,5 semanas | Pesquisa com produtores rurais e wireframes iniciais | Concluído |
-| Sprint 2 | 2 semanas | Protótipos de média fidelidade, fluxos e modelagem | Concluído |
-| Sprint 3 | 1 semana | Ajustes finais, validação com usuários e documentação | Pendente |
+| Sprint 1 | 1,5 semanas | Pesquisa com produtores rurais e pesquisas iniciais | Concluído |
+| Sprint 2 | 2 semanas | Protótipos de fluxos e modelagem | Concluído |
+| Sprint 3 | 1 semana | Ajustes finais, validação com usuários e documentação | Concluído |
 
 ### Reuniões
 
@@ -139,16 +134,15 @@ Região inicial: Estado de Goiás.
 - [x] Problema documentado
 - [x] Repositório configurado
 - [x] Pesquisa com usuários realizada
-- [x] Protótipos criados
-- [ ] Modelagem concluída
+- [x] Modelagem concluída
 
 ---
 
 ## Links
 
+- **Repositório de Protótipos:** [link]
 - **Repositório de código (Fase 02):** [em breve]
 - **Board Kanban:** [Board Kanban do GoSilo](https://trello.com/invite/b/gdIdj7zz/ATTI027b16c041f19ee0085082933894d026F77FA151/projeto-integrador)
-- **Protótipo no Lovable:** [em breve]
 
 ---
 
