@@ -4,7 +4,7 @@
 ![Fase](https://img.shields.io/badge/fase-planejamento-blue)
 ![Período](https://img.shields.io/badge/período-2º%20semestre-green)
 
-Repositório de Documentação, pesquisa de usuários, protótipos e planejamento do GoSilo.
+Repositório de Documentação, pesquisa de usuários, e planejamento do GoSilo.
 
 ---
 ## O Problema:
