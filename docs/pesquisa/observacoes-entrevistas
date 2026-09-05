@@ -1,1 +1,28 @@
+Observação dos usuários na entrevista:
+
+Entrevista 1) Vicente Almeida
+Por conta da idade avançada, foi possível encontrar dificuldades ao tenta mostrar a ideia do aplicativo e como o mesmo funcionava, mas apresentou facilidade em entender botões simples como ("voltar", "Confirmar", "Participar", "Enviar Lance"), deixando claro que os botões apresentam uma lógica em relação a seu tipo de aba (ex: "Enviar Lance" na aba de Lances). Apesar da idade, a experiência foi maior, pois disse que em baixo do sol, letras pequenas seriam um desafio.
+
+Entrevista 2) Vilma Almeida
+Apresentou certa facilidade ao falar do aplicativo, como sobre o funcionamento do GPS por "pinceladas na tela" e "arrastar", ficou um pouca espantada em um primeiro contato, principalmente ao adicionar dados no perfil do produtor, na aba "meus produtos" (talvez um chat bot seja melhor e mais amigável), apresentou dificuldade na tela inicial (criação da conta) mas conseguiu utilizar o botão de seleção "produtor rural ou dono de silo" com facilidade. (Acredito que se conseguirmos conectar os dados da conta google do usuário ao sistema, isso não será um desafio tão grande).
+
+Entrevista 3) Vicente Almeida Filho
+Demonstrou certo entusiasmo ao mostrarmos uma solução na qual ele conseguia usar e entender (apesar do susto inicial), conseguiu entender cada tela com seus botões, nomenclaturas e funções por ser semelhante a aplicativos já utilizados (como facebook). Ao final, ele perguntou o que é "Chat", da fluxograma 3-4, ele recomendou  mudar para "Falar com vencedor".
+
+Entrevista 4) Sandra Almeida
+Ao comentar que ela já passou por este problema pessoalmente, foi observável um certo desânimo em relação ao problema, pois é de grande complexidade de solucionar e gera custos elevados a entrevistada. Ao mostrar o protótipo de baixo nível, teve certa facilidade de entender o design e as funções dos botões. Destacou principalmente a ideia do leilão inverso, dizendo ser algo inovador e diferente no mercado.
+
+Entrevista 5) Rodolfo Oliveira
+Houve uma dificuldade na hora do cadastro, pois, ele não tinha e-mail, comentou que seria mais fácil inserir o numero do CPF, como é o caso de bancos, além disso, ele percebeu um erro, no fluxograma 3 - 3, na hora de salvar as informações do silo, está "Salvar produtos", ele recomendou "Salvar dados" e disse para trocar "tipos de grãos aceitáveis" para "tipos de grãos aceitos".
+
+
+OBS Final: ao fim da entrevista, ficou notável que o aplicativo é de fácil manejo por se basear em designs de aplicativos já existentes (como nomenclatura e posição dos botões) e que os botões estão "logicamente" encachados em suas abas, mas precisando de pequenos ajustes em relação a "facilitação" do entendo das nomenclaturas dos botões.
+
+O que pode ser adicionado ou modificado ?
+Mudar "Salvar produtos" para "Salvar dados"
+Trocar "tipos de grãos aceitáveis" para "tipos de grãos aceitos"
+Trocar nomenclatura "Chat" para "Falar com vencedor"
+Trocar as setas ">" para baixo
+Mudar, na aba "Cadastro," as opções e-mail/telefone para CPF/telefone
+(Obs) -> Tomar cuidado com letras pequenas
 
