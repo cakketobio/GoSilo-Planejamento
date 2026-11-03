@@ -1,12 +1,14 @@
 # Observações das Entrevistas e Avaliação do Protótipo
 
-## Entrevista 1 – Vicente Almeida
+## 1. Entrevista – Vicente Almeida
 
-Durante a apresentação da proposta do aplicativo, foram identificadas algumas dificuldades iniciais de compreensão, possivelmente relacionadas à pouca familiaridade do participante com esse tipo de tecnologia. Entretanto, ao explorar os elementos da interface, demonstrou facilidade para reconhecer e compreender botões com funções objetivas, como "Voltar", "Confirmar", "Participar" e "Enviar Lance".
+Durante a apresentação da proposta do aplicativo, foram identificadas algumas dificuldades iniciais de compreensão, possivelmente relacionadas à pouca familiaridade do participante com esse tipo de tecnologia.
 
-Observou-se que a organização dos botões e sua relação com as respectivas funcionalidades contribuíram para a compreensão da navegação. O participante conseguiu associar as ações apresentadas às telas correspondentes, demonstrando que a disposição dos elementos seguia uma lógica relativamente intuitiva.
+Entretanto, ao explorar os elementos da interface, demonstrou facilidade para reconhecer e compreender botões com funções objetivas, como "Voltar", "Confirmar", "Participar" e "Enviar Lance". A organização dos botões e sua relação com as respectivas funcionalidades contribuíram para a compreensão da navegação.
 
-Como observação adicional, destacou que textos pequenos poderiam dificultar a utilização do aplicativo em ambientes externos, especialmente sob a incidência direta da luz solar. Esse apontamento evidencia a importância de considerar a legibilidade da interface em diferentes condições de uso.
+O participante conseguiu associar as ações apresentadas às telas correspondentes, demonstrando que a disposição dos elementos seguia uma lógica relativamente intuitiva.
+
+Como observação adicional, destacou que textos pequenos poderiam dificultar a utilização do aplicativo em ambientes externos, especialmente sob a incidência direta da luz solar.
 
 **Pontos identificados:**
 - Facilidade para compreender botões com funções diretas e objetivas.
@@ -14,15 +16,17 @@ Como observação adicional, destacou que textos pequenos poderiam dificultar a 
 - Necessidade de utilizar fontes com tamanho adequado.
 - Atenção ao contraste e à legibilidade da interface em ambientes externos.
 
-## Entrevista 2 – Vilma Almeida
+## 2. Entrevista – Vilma Almeida
 
-Durante a apresentação do protótipo, a participante demonstrou compreensão das interações relacionadas ao mapa, como movimentar a visualização por meio de gestos de arrastar e selecionar elementos na tela. Apesar disso, apresentou certo estranhamento inicial ao entrar em contato com a proposta e com algumas funcionalidades do aplicativo.
+Durante a apresentação do protótipo, a participante demonstrou compreensão das interações relacionadas ao mapa, como movimentar a visualização por meio de gestos de arrastar e selecionar elementos na tela.
+
+Apesar disso, apresentou certo estranhamento inicial ao entrar em contato com a proposta e com algumas funcionalidades do aplicativo.
 
 As maiores dificuldades foram observadas nas etapas de cadastro e preenchimento das informações do perfil do produtor, especialmente na seção "Meus Produtos". A quantidade de informações solicitadas e a forma de inserção dos dados podem exigir maior orientação para usuários com pouca familiaridade com aplicativos desse tipo.
 
 Por outro lado, a participante conseguiu identificar e utilizar sem dificuldades a opção de seleção do tipo de usuário, entre "Produtor Rural" e "Dono de Silo".
 
-Durante a avaliação, surgiu a sugestão de tornar o preenchimento das informações mais simples e intuitivo, considerando recursos de orientação ao usuário, como mensagens explicativas ou um assistente virtual. Também foi levantada a possibilidade de integração com uma conta Google para facilitar o cadastro e o preenchimento de informações, desde que essa alternativa seja tecnicamente viável e respeite a autorização do usuário.
+Durante a avaliação, foi levantada a possibilidade de tornar o preenchimento das informações mais simples e intuitivo, considerando recursos de orientação ao usuário, como mensagens explicativas ou um assistente virtual. Também foi sugerida a possibilidade de integração com uma conta Google para facilitar o cadastro e o preenchimento de informações, desde que essa alternativa seja tecnicamente viável e respeite a autorização do usuário.
 
 **Pontos identificados:**
 - Compreensão das interações básicas do mapa.
@@ -31,13 +35,15 @@ Durante a avaliação, surgiu a sugestão de tornar o preenchimento das informa�
 - Necessidade de simplificar e orientar o preenchimento das informações.
 - Possibilidade de avaliar recursos de integração com contas externas ou assistência ao usuário.
 
-## Entrevista 3 – Vicente Almeida Filho
+## 3. Entrevista – Vicente Almeida Filho
 
 O participante demonstrou entusiasmo ao conhecer a proposta do aplicativo. Apesar de apresentar certa hesitação inicial, conseguiu compreender a organização das telas, os botões e as funcionalidades apresentadas durante a demonstração.
 
 Observou-se que a familiaridade com outros aplicativos, como o Facebook, contribuiu para o entendimento da interface. A utilização de padrões de navegação e elementos visuais semelhantes aos já conhecidos facilitou a identificação das ações disponíveis.
 
-Ao analisar o fluxo de navegação 3-4, o participante questionou o significado do termo "Chat", demonstrando que a nomenclatura poderia não ser suficientemente clara para todos os usuários. Como alternativa, sugeriu a utilização da expressão "Falar com vencedor", que comunica de maneira mais direta a finalidade da funcionalidade.
+Ao analisar o fluxo de navegação 3-4, o participante questionou o significado do termo "Chat", demonstrando que a nomenclatura poderia não ser suficientemente clara para todos os usuários.
+
+Como alternativa, sugeriu a utilização da expressão "Falar com vencedor", que comunica de maneira mais direta a finalidade da funcionalidade.
 
 **Pontos identificados:**
 - Boa compreensão da organização geral das telas.
@@ -45,7 +51,7 @@ Ao analisar o fluxo de navegação 3-4, o participante questionou o significado 
 - Necessidade de utilizar nomenclaturas claras e de fácil interpretação.
 - Sugestão de substituir o termo "Chat" por "Falar com vencedor".
 
-## Entrevista 4 – Sandra Almeida
+## 4. Entrevista – Sandra Almeida
 
 Durante a conversa, a participante relatou já ter vivenciado pessoalmente dificuldades relacionadas ao problema investigado pelo projeto. Ao abordar suas experiências, foi possível perceber certo desânimo ao recordar a situação, considerando a complexidade envolvida na busca por soluções e os custos financeiros associados.
 
@@ -60,13 +66,15 @@ A participante destacou especialmente a funcionalidade de leilão inverso, consi
 - Interesse pela proposta de leilão inverso.
 - Importância de investigar a aceitação do modelo de negociação com outros usuários.
 
-## Entrevista 5 – Rodolfo Oliveira
+## 5. Entrevista – Rodolfo Oliveira
 
 Durante a avaliação, o participante apresentou dificuldade na etapa de cadastro, pois não possuía endereço de e-mail. Diante dessa situação, sugeriu a possibilidade de utilizar o número do CPF como alternativa de identificação, mencionando que esse modelo é adotado por instituições bancárias e já é familiar para muitos usuários.
 
 Além da questão relacionada ao cadastro, o participante identificou inconsistências na nomenclatura de alguns elementos do fluxo 3-3, referente ao preenchimento das informações do silo.
 
-Na etapa de salvamento das informações, observou que o botão estava identificado como "Salvar produtos", embora a ação estivesse relacionada ao registro de dados do silo. Como alternativa, sugeriu a substituição por "Salvar dados". Também recomendou alterar a expressão "Tipos de grãos aceitáveis" para "Tipos de grãos aceitos", tornando o texto mais direto e natural.
+Na etapa de salvamento das informações, observou que o botão estava identificado como "Salvar produtos", embora a ação estivesse relacionada ao registro de dados do silo. Como alternativa, sugeriu a substituição por "Salvar dados".
+
+Também recomendou alterar a expressão "Tipos de grãos aceitáveis" para "Tipos de grãos aceitos", tornando o texto mais direto e natural.
 
 As observações demonstram a importância de revisar os textos da interface para garantir que as nomenclaturas correspondam às ações realizadas e sejam facilmente compreendidas pelos usuários.
 
@@ -77,7 +85,7 @@ As observações demonstram a importância de revisar os textos da interface par
 - Sugestão de substituir "Salvar produtos" por "Salvar dados".
 - Sugestão de substituir "Tipos de grãos aceitáveis" por "Tipos de grãos aceitos".
 
-## Observações Gerais
+## 6. Observações Gerais
 
 A partir das cinco entrevistas, foi possível identificar que a organização da interface e a utilização de padrões semelhantes aos encontrados em aplicativos já conhecidos contribuíram para a compreensão inicial do protótipo.
 
@@ -89,24 +97,39 @@ Outro aspecto relevante foi a necessidade de garantir boa legibilidade, especial
 
 As sugestões apresentadas pelos participantes foram consideradas oportunidades de aprimoramento da interface e da experiência de uso, contribuindo para tornar o aplicativo mais acessível, intuitivo e adequado ao público pretendido.
 
-## Melhorias Identificadas
+## 7. Melhorias Identificadas
 
 Com base nas observações realizadas, foram identificadas as seguintes alterações e recomendações:
 
-| Elemento | Alteração ou recomendação |
-|---|---|
-| Botão "Salvar produtos" | Substituir por "Salvar dados". |
-| Texto "Tipos de grãos aceitáveis" | Substituir por "Tipos de grãos aceitos". |
-| Nomenclatura "Chat" | Avaliar a substituição por "Falar com vencedor". |
-| Setas de navegação | Revisar a orientação das setas dos elementos expansíveis, utilizando setas para baixo quando representarem menus de seleção ou expansão. |
-| Cadastro | Avaliar a possibilidade de utilizar CPF e telefone como alternativas de identificação. |
-| Preenchimento de informações | Simplificar os campos e incluir orientações que auxiliem o usuário. |
-| Legibilidade | Revisar o tamanho das fontes e o contraste, considerando principalmente a utilização em ambientes externos. |
-| Assistência ao usuário | Avaliar a inclusão de mensagens explicativas ou de um assistente para orientar o preenchimento. |
+### 7.1. Nomenclatura e textos
 
-**Observação sobre o cadastro:** a utilização do CPF deve ser analisada considerando os requisitos de segurança, validação de identidade e proteção de dados pessoais, conforme a LGPD.
+- Substituir "Salvar produtos" por "Salvar dados".
+- Substituir "Tipos de grãos aceitáveis" por "Tipos de grãos aceitos".
+- Avaliar a substituição do termo "Chat" por "Falar com vencedor".
 
-## Conclusão das Observações
+### 7.2. Navegação e organização visual
+
+- Revisar a orientação das setas dos elementos expansíveis, utilizando setas para baixo quando representarem menus de seleção ou expansão.
+- Manter uma organização consistente entre botões, menus e demais elementos de navegação.
+- Simplificar as etapas que apresentaram dificuldades de compreensão.
+
+### 7.3. Cadastro e preenchimento de informações
+
+- Avaliar a possibilidade de utilizar CPF e telefone como alternativas de identificação.
+- Simplificar os campos de cadastro e incluir orientações que auxiliem o usuário.
+- Avaliar a inclusão de mensagens explicativas ou de um assistente para orientar o preenchimento.
+- Considerar alternativas de integração com contas externas, desde que sejam tecnicamente viáveis.
+
+### 7.4. Acessibilidade e legibilidade
+
+- Revisar o tamanho das fontes.
+- Melhorar o contraste entre textos e fundos.
+- Garantir que os elementos da interface sejam facilmente identificáveis em ambientes externos.
+- Considerar diferentes níveis de familiaridade dos usuários com dispositivos móveis.
+
+**Observação:** a utilização do CPF deve ser analisada considerando os requisitos de segurança, validação de identidade e proteção de dados pessoais, conforme a Lei Geral de Proteção de Dados (LGPD).
+
+## 8. Conclusão
 
 As entrevistas contribuíram para identificar aspectos positivos e oportunidades de melhoria na interface do GoSilo. A utilização de padrões visuais familiares favoreceu a compreensão inicial da proposta, enquanto as dificuldades observadas demonstraram a necessidade de simplificar determinadas etapas e revisar a comunicação apresentada ao usuário.
 
