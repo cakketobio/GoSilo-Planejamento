@@ -80,7 +80,7 @@ A participante destacou especialmente a funcionalidade de **leilão inverso**, c
 
 ## 5. Entrevista – Rodolfo Oliveira
 
-Durante a avaliação, o participante apresentou dificuldade na etapa de cadastro, pois não possuía endereço de e-mail. Diante dessa situação, sugeriu a possibilidade de utilizar o número do CPF como alternativa de identificação, mencionando que esse modelo é adotado por instituições bancárias e já é familiar para muitos usuários.
+Sugeriu a possibilidade de utilizar o número do CPF como alternativa de identificação, mencionando que esse modelo é adotado por instituições bancárias e já é familiar para muitos usuários.
 
 Além da questão relacionada ao cadastro, o participante identificou inconsistências na nomenclatura de alguns elementos do fluxo 3-3, referente ao preenchimento das informações do silo.
 
@@ -92,7 +92,6 @@ As observações demonstram a importância de revisar os textos da interface par
 
 **Pontos identificados:**
 
-- Dificuldade no cadastro devido à ausência de endereço de e-mail.
 - Sugestão de avaliar o CPF como alternativa de identificação.
 - Identificação de inconsistência no botão "Salvar produtos".
 - Sugestão de substituir "Salvar produtos" por "Salvar dados".
