@@ -1,0 +1,32 @@
+categorias = {
+    'Destacou o leilao', ...
+    'Alertou para letras pequenas', ...
+    'Teve dificuldade no cadastro', ...
+    'Sugeriu mudar nomes de botoes ou campos', ...
+    'Entendeu botoes e telas com facilidade'
+};
+valores = [20, 20, 40, 40, 80];
+rotulos = {'20% (1 de 5)', '20% (1 de 5)', '40% (2 de 5)', '40% (2 de 5)', '80% (4 de 5)'};
+
+figure('Color', 'white');
+hold on;
+
+for i = 1:5
+    if i == 5
+        cor = [0.05, 0.45, 0.95];
+    else
+        cor = [0.6, 0.6, 0.6];
+    end
+    patch([0, valores(i), valores(i), 0], [i-0.25, i-0.25, i+0.25, i+0.25], cor, 'EdgeColor', 'none');
+    text(valores(i) + 2, i, rotulos{i}, 'FontSize', 10, 'VerticalAlignment', 'middle');
+end
+
+set(gca, 'YTick', 1:5, 'YTickLabel', categorias, 'FontSize', 10);
+ylim([0.4, 5.6]);
+xlim([0, 100]);
+xlabel('Percentual (%)', 'FontSize', 10);
+title({'80% entenderam os botoes e as telas do prototipo com facilidade', ...
+       'Percentual dos participantes por observacao registrada (n = 5)'}, ...
+       'FontSize', 11, 'FontWeight', 'bold');
+box off;
+hold off;
