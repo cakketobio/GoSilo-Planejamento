@@ -1,0 +1,31 @@
+categorias = {
+    'Criada na fazenda', ...
+    'Gestora da fazenda', ...
+    'Proprietario rural', ...
+    'Produtor rural'
+};
+valores = [20, 20, 20, 40];
+rotulos = {'20% (1 de 5)', '20% (1 de 5)', '20% (1 de 5)', '40% (2 de 5)'};
+
+figure('Color', 'white');
+hold on;
+
+for i = 1:4
+    if i == 4
+        cor = [0.05, 0.45, 0.95]; % Azul para produtor rural
+    else
+        cor = [0.6, 0.6, 0.6];    % Cinza para os demais
+    end
+    patch([0, valores(i), valores(i), 0], [i-0.2, i-0.2, i+0.2, i+0.2], cor, 'EdgeColor', 'none');
+    text(valores(i) + 2, i, rotulos{i}, 'FontSize', 10, 'VerticalAlignment', 'middle');
+end
+
+set(gca, 'YTick', 1:4, 'YTickLabel', categorias, 'FontSize', 10);
+ylim([0.4, 4.6]);
+xlim([0, 60]);
+xlabel('Percentual (%)', 'FontSize', 10);
+title({'Perfil dos participantes: 40% sao produtores rurais', ...
+       'Percentual dos participantes por perfil registrado (n = 5)'}, ...
+       'FontSize', 11, 'FontWeight', 'bold');
+box off;
+hold off;
