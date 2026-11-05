@@ -1,0 +1,32 @@
+categorias = {
+    'Custo de silo vazio ou de fretes longos', ...
+    'Espaco ocioso por perto, sem saber', ...
+    'Risco de perder parte da colheita', ...
+    'Silo enche com colheita acima do esperado', ...
+    'Busca espaco por ligacoes e mensagens'
+};
+valores = [20, 40, 40, 40, 60];
+rotulos = {'20% (1 de 5)', '40% (2 de 5)', '40% (2 de 5)', '40% (2 de 5)', '60% (3 de 5)'};
+
+figure('Color', 'white');
+hold on;
+
+for i = 1:5
+    if i == 5
+        cor = [0.05, 0.45, 0.95];
+    else
+        cor = [0.6, 0.6, 0.6];
+    end
+    patch([0, valores(i), valores(i), 0], [i-0.25, i-0.25, i+0.25, i+0.25], cor, 'EdgeColor', 'none');
+    text(valores(i) + 2, i, rotulos{i}, 'FontSize', 10, 'VerticalAlignment', 'middle');
+end
+
+set(gca, 'YTick', 1:5, 'YTickLabel', categorias, 'FontSize', 10);
+ylim([0.4, 5.6]);
+xlim([0, 80]);
+xlabel('Percentual (%)', 'FontSize', 10);
+title({'60% dependem de ligacoes e mensagens para achar espaco', ...
+       'Percentual dos participantes que relataram cada dificuldade (n = 5)'}, ...
+       'FontSize', 11, 'FontWeight', 'bold');
+box off;
+hold off;
