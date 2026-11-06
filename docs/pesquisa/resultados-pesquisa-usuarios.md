@@ -12,11 +12,11 @@ A pesquisa contou com cinco participantes, com idades entre 58 e 90 anos.
 
 | Participante | Idade | Perfil |
 |---|---:|---|
-| Vicente Almeida | 90 anos | Proprietário rural |
-| Vilma Almeida | 62 anos | Criada na fazenda |
-| Vicente Almeida Filho | 58 anos | Produtor rural |
-| Sandra Almeida | 60 anos | Gestora da fazenda |
-| Rodolfo Oliveira | 61 anos | Produtor rural |
+| Participante 1 | 90 anos | Proprietário rural |
+| Participante 2 | 62 anos | Criada na fazenda |
+| Participante 3 | 58 anos | Produtor rural |
+| Participante 4 | 60 anos | Gestora da fazenda |
+| Participante 5 | 61 anos | Produtor rural |
 
 A diversidade de experiências contribuiu para compreender diferentes perspectivas sobre o armazenamento agrícola, incluindo a procura por espaço, a administração de propriedades e o aproveitamento de estruturas disponíveis.
 
@@ -26,9 +26,9 @@ A diversidade de experiências contribuiu para compreender diferentes perspectiv
 
 Os relatos demonstraram que encontrar espaço disponível para armazenar a produção pode ser um desafio, principalmente quando o volume colhido ultrapassa a capacidade própria de armazenamento.
 
-Vicente Almeida relatou que já enfrentou situações em que o silo da propriedade ficava cheio, sendo necessário procurar espaço com vizinhos ou conhecidos. Segundo ele, a ausência desses contatos poderia dificultar ainda mais a resolução do problema.
+Participante 1 relatou que já enfrentou situações em que o silo da propriedade ficava cheio, sendo necessário procurar espaço com vizinhos ou conhecidos. Segundo ele, a ausência desses contatos poderia dificultar ainda mais a resolução do problema.
 
-Vilma Almeida também descreveu situações em que familiares precisavam entrar em contato com diferentes pessoas para encontrar locais disponíveis. Destacou que, muitas vezes, existem propriedades próximas com espaço sobrando, mas essa informação não chega a quem precisa.
+Participante 2 também descreveu situações em que familiares precisavam entrar em contato com diferentes pessoas para encontrar locais disponíveis. Destacou que, muitas vezes, existem propriedades próximas com espaço sobrando, mas essa informação não chega a quem precisa.
 
 Esses relatos evidenciam a falta de visibilidade sobre a disponibilidade de espaços de armazenagem na região.
 
@@ -36,7 +36,7 @@ Esses relatos evidenciam a falta de visibilidade sobre a disponibilidade de espa
 
 A utilização de ligações telefônicas e mensagens por aplicativos, especialmente WhatsApp, apareceu como uma das principais alternativas utilizadas para encontrar espaços disponíveis.
 
-Vicente Almeida Filho relatou que, quando a produção ultrapassa a capacidade do silo próprio, precisa recorrer a ligações e mensagens para encontrar alternativas.
+Participante 3 relatou que, quando a produção ultrapassa a capacidade do silo próprio, precisa recorrer a ligações e mensagens para encontrar alternativas.
 
 Essa dependência de contatos informais pode limitar as opções disponíveis, pois a procura fica restrita às pessoas que o produtor conhece. Além disso, as informações sobre capacidade, localização e condições de armazenamento nem sempre estão organizadas.
 
@@ -44,7 +44,7 @@ O GoSilo pretende reduzir essa dificuldade por meio de uma plataforma centraliza
 
 ### 3.3. Capacidade ociosa e prejuízos financeiros
 
-Sandra Almeida destacou que a construção e a manutenção de silos representam custos elevados. Dessa forma, manter parte da capacidade de armazenamento sem utilização significa deixar de aproveitar o potencial financeiro de uma estrutura já existente.
+Participante 4 destacou que a construção e a manutenção de silos representam custos elevados. Dessa forma, manter parte da capacidade de armazenamento sem utilização significa deixar de aproveitar o potencial financeiro de uma estrutura já existente.
 
 A entrevistada também relatou que a falta de espaço pode obrigar produtores a aceitar condições desfavoráveis ou arcar com custos maiores de transporte.
 
@@ -52,7 +52,7 @@ Esse resultado demonstra que o problema não afeta somente quem precisa armazena
 
 ### 3.4. Necessidade de agilidade durante a colheita
 
-Os relatos de Vicente Almeida e Vicente Almeida Filho demonstraram que a busca por alternativas de armazenamento pode exigir rapidez, especialmente quando a produção supera a capacidade disponível.
+Os relatos de Participante 1 e Participante 3 demonstraram que a busca por alternativas de armazenamento pode exigir rapidez, especialmente quando a produção supera a capacidade disponível.
 
 A necessidade de entrar em contato com diferentes pessoas pode tornar o processo mais demorado e dificultar a tomada de decisões.
 
@@ -64,11 +64,11 @@ Durante a apresentação do protótipo, foram observadas diferentes reações e 
 
 | Participante | Observações realizadas | Melhorias identificadas |
 |---|---|---|
-| Vicente Almeida | Apresentou dificuldade inicial para compreender algumas funcionalidades, mas conseguiu identificar a lógica de botões simples, como voltar, confirmar, participar e enviar lance. Destacou que letras pequenas podem dificultar a utilização, principalmente sob o sol. | Aumentar o tamanho das fontes, melhorar o contraste e utilizar botões de fácil identificação. |
-| Vilma Almeida | Demonstrou certa dificuldade inicial com a navegação e com algumas interações do mapa, como gestos de arrastar e selecionar. Também apresentou dificuldade na tela inicial e no preenchimento dos dados do perfil. | Simplificar o cadastro, orientar o preenchimento dos campos e tornar as interações mais intuitivas. |
-| Vicente Almeida Filho | Demonstrou entusiasmo com a proposta e conseguiu compreender as telas e funcionalidades por serem semelhantes às de aplicativos já conhecidos. Questionou o significado do termo "Chat". | Substituir termos pouco intuitivos por expressões mais claras, como "Falar com vencedor". |
-| Sandra Almeida | Apresentou facilidade para compreender a organização visual e as funções dos botões. Demonstrou interesse especial pela proposta de leilão inverso, considerando-a uma alternativa inovadora. | Manter a organização visual e apresentar de maneira clara o funcionamento dos leilões e das negociações. |
-| Rodolfo Oliveira | Apresentou dificuldade durante o cadastro por não possuir e-mail. Sugeriu a possibilidade de utilizar CPF como alternativa. Também identificou problemas na nomenclatura de alguns elementos do fluxo de cadastro do silo. | Avaliar alternativas de identificação e revisar os textos apresentados na interface. |
+| Participante 1 | Apresentou dificuldade inicial para compreender algumas funcionalidades, mas conseguiu identificar a lógica de botões simples, como voltar, confirmar, participar e enviar lance. Destacou que letras pequenas podem dificultar a utilização, principalmente sob o sol. | Aumentar o tamanho das fontes, melhorar o contraste e utilizar botões de fácil identificação. |
+| Participante 2 | Demonstrou certa dificuldade inicial com a navegação e com algumas interações do mapa, como gestos de arrastar e selecionar. Também apresentou dificuldade na tela inicial e no preenchimento dos dados do perfil. | Simplificar o cadastro, orientar o preenchimento dos campos e tornar as interações mais intuitivas. |
+| Participante 3 | Demonstrou entusiasmo com a proposta e conseguiu compreender as telas e funcionalidades por serem semelhantes às de aplicativos já conhecidos. Questionou o significado do termo "Chat". | Substituir termos pouco intuitivos por expressões mais claras, como "Falar com vencedor". |
+| Participante 4 | Apresentou facilidade para compreender a organização visual e as funções dos botões. Demonstrou interesse especial pela proposta de leilão inverso, considerando-a uma alternativa inovadora. | Manter a organização visual e apresentar de maneira clara o funcionamento dos leilões e das negociações. |
+| Participante 5| Apresentou dificuldade durante o cadastro por não possuir e-mail. Sugeriu a possibilidade de utilizar CPF como alternativa. Também identificou problemas na nomenclatura de alguns elementos do fluxo de cadastro do silo. | Avaliar alternativas de identificação e revisar os textos apresentados na interface. |
 
 ## 5. Melhorias Identificadas para a Interface
 
