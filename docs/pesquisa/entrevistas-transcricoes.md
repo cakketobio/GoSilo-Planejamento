@@ -4,8 +4,6 @@
 
 **Objetivo:** Compreender as dificuldades enfrentadas por produtores rurais em relação à falta de espaço para armazenar grãos, identificar silos com espaço sobrando nas propriedades e entender se os produtores teriam interesse em utilizar uma plataforma que facilitasse esse contato.
 
-**Observação:** As respostas originais foram preservadas. As respostas complementares são simulações elaboradas para orientar uma possível continuação da pesquisa e não representam depoimentos efetivamente coletados.
-
 ---
 
 ## Entrevista 1: Participante 1
